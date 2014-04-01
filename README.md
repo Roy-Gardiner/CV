@@ -4,6 +4,7 @@ Experience in large companies, small software house and freelance.
 
 RBoS (NatWest prior to takeover)
 ================================
+
 Developer, account opening Feb 2008-Oct 2009
 --------------------------------------------
 
@@ -27,6 +28,7 @@ successful presentations. 20+ courses given, audiences of 8-12 including senior 
 
 Technical Specialist, development support 1996-2005
 ---------------------------------------------------
+
 *       Support, including tools provision (over 200) and maintenance, for all development staff 
 (several hundred people),
 *       Design code and implement new tools (20-plus written).
@@ -53,6 +55,7 @@ software from around two week's highly labour intensive work to an automated eig
 
 Irish Electricity Supply Board
 ==============================
+
 Contractor, IT training 1990
 ----------------------------
 *       Headhunted to devise, write and present a basic programming in PL/1 course to new entrants 
@@ -60,6 +63,7 @@ to the ESB. Course contained 20+separate practical programming exercises
 
 British Telecom
 ===============
+
 Contractor, software distribution 1986-1990
 -------------------------------------------
 *       Conceived, designed and implemented the change control and software delivery package for the 
@@ -70,6 +74,7 @@ ChangeMan, saving hundreds of thousands for BT in licence fees for such products
 
 Nat West
 ========
+
 Training consultant     1984-1986
 ---------------------------------
 
@@ -79,11 +84,13 @@ advanced.  Full 12-week basic course presented to around 100 staff, intermediate
 
 Altergo
 =======
+
 Sales and marketing     1983-1984
 ---------------------------------
 
 *       Selling of all services including Education.  Moved to sales role to broaden experience 
 within group
+
 Education division manager 1979-1983
 ------------------------------------
 
@@ -91,6 +98,7 @@ Education division manager 1979-1983
 equivalent to perhaps £2m+ today) including sales and marketing of the Division and Altergo itself 
 (in particular to IBM), staff management and recruitment, office administration, selection of 
 training premises
+
 Lecturer and senior lecturer 1977-1979
 --------------------------------------
 
