@@ -109,7 +109,10 @@ Senior programmer 1977-1979
 
 *       Writing programs for clients in PL/1; VM/CMS, Xedit, Xedit macro construction, Script/VS; 
 Systems development using PL/1, VM/CMS, Exec-2, Rexx, CICS command level
+
 Technical skills summary
+========================
+
 *       IBM mainframe:  MVS, z/OS, PL/I, JCL, Utilities, Rexx (six published articles in Computing 
 magazine), ISPF (dialogs, skeletons, table handling, Edit macros), Clist, TSO,  DCF (DCF GML, tag 
 design, Script programming), JCLPREP (including original contributions to base product), OPC PIF, 
