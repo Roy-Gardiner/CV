@@ -103,8 +103,10 @@ Lecturer and senior lecturer 1977-1979
 --------------------------------------
 
 *       Presentation of PL/1 training at all levels, over 50 courses presented
-Senior programmer       1977-1979
----------------------------------
+
+Senior programmer 1977-1979
+---------------------------
+
 *       Writing programs for clients in PL/1; VM/CMS, Xedit, Xedit macro construction, Script/VS; 
 Systems development using PL/1, VM/CMS, Exec-2, Rexx, CICS command level
 Technical skills summary
